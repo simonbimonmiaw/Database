@@ -1,0 +1,156 @@
+
+body { 
+
+margin: 0;
+padding: 0; 
+background-color: white;
+font-family: 'Raleway', sans-serif;	
+	
+
+}
+
+a { 
+
+text-decoration: none;
+
+}
+
+a:hover { 
+
+color: #283018;	
+	
+
+}
+
+.header { 
+margin: auto;
+width: 50%;
+text-align: center;	
+
+
+}
+
+
+.sign-in { 
+
+color: #283018;
+
+}
+
+
+.profile_pic { 
+
+width: 200px;
+height: 200px;
+margin: auto;
+
+}
+
+.title { 
+font-size: 2em;
+color: #729f98;
+
+}
+
+.profiles { 
+
+margin: auto;
+
+
+}
+
+.profile { 
+padding: 2%;
+margin: auto;
+border-style: solid;
+border-width: 1px;
+background-color: #f0eceb;		
+	
+
+}
+
+.profile-info { 
+
+list-style-type: none;
+padding: 5px;
+margin-bottom: 10px;	
+
+
+}
+
+li { 
+
+margin-top: 10px;	
+
+
+}
+
+
+article {
+    max-width: 250px;
+    padding: 10px;
+    display: inline-grid;
+    
+}
+
+
+
+input, textarea, select {
+    display: block;
+    width: 400px;
+    padding: 5px;
+    font-size: 1em;
+    margin-bottom: 1em;
+    box-sizing: border-box;
+}
+
+
+
+::-webkit-input-placeholder {
+    color: #c7c6c6;
+}
+
+input[type="submit"] {
+    border: none;
+    background-color: #283018;
+    color: white;
+	margin: auto;
+}
+
+input[type="submit"]:hover {
+    background-color: #61ba82;
+}
+
+
+
+form { 
+
+margin: 2em auto 0 auto;
+    max-width: 440px;
+	margin-bottom: 10px;
+}
+
+
+
+.comment { 
+width: 270px;
+height: 100px;
+	
+
+}
+
+.like { 
+
+margin-top: 10px;
+
+
+}
+
+.likebtn {
+font-size: 1.5em;	
+color: green;
+text-decoration: none;	
+	
+
+
+}
